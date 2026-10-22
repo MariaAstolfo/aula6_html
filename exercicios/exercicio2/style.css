@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: #F1F5FA;
+}
+
+.cabecalho{
+    background-color:#004C94 ;
+    color: aliceblue;
+    text-align: center;
+    padding: 40px;
+    
+}
+
+.cabecalho p{
+    margin-top: 10px;
+}
+
+.blocos{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.caixa{
+    background-color: #FFFFFF;
+    border: 1px solid #e4e7e9ea;
+    width: 60%;
+    padding: 20px;
+}
+
+.caixa h2{
+    color: #27466d ;
+}
+
+.caixa p{
+    margin-top: 10px;
+}
+
+.caixa1{
+    background-color: #FFFFFF;
+    border:1px solid #e4e7e9ea;
+    width: 60%;
+    padding: 20px;
+   
+}
+
+.blocos1{
+     display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 30px;
+    text-align: center;
+}
+
+.caixa1 h2{
+   color: #27466d ;
+
+}
+
+.bloco1{
+    background-color: #DAE8FF;
+    color: #5070AC;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    border:2px solid #e4e7e9ea;
+    box-shadow: 4px 4px 10px #00000033;
+
+}
+
+.bloco2{
+    background-color: #DCF5DF;
+    color: #3D7850;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    border:2px solid #e4e7e9ea;
+    box-shadow: 4px 4px 10px #00000033;
+}
+
+.bloco3{
+    background-color: #FFE8D3;
+    color: #B98256;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    border:2px solid #e4e7e9ea;
+    box-shadow: 4px 4px 10px #00000033;
+}

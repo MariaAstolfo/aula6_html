@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: #004C94;
+    color: #F2E9D8;
+    padding: 20px;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color: #F2E9D8;
+    margin: 10px;
+}
